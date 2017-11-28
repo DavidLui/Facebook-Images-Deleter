@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         fb
 // @version      0.1
-// @include      https://www.facebook.com/david.lui.712/*
 // @description  enter something useful
 // @author       DAVID LUI
 // @match        http://tampermonkey.net/faq.php?version=3.11&ext=dhdg&updated=true
